@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Podaj drugą wartość:");
         int b = sc.nextInt();
         System.out.println("Wynik to : ");
-        System.out.println(a + b);
+        System.out.println( a + b);
 
     }
 }
